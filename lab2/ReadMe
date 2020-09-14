@@ -1,0 +1,23 @@
+# Lab 2
+
+Lab 2 contains the code solution to exercise 2 and 3. 
+
+## Installation
+
+Just Java. 
+
+```bash
+https://www.oracle.com/java/technologies/javase-downloads.html
+```
+
+## Usage
+
+```
+exercise 2 -> user is given an option on which temperature he wants to convert, then he inputs 7 numbers and get the conversion back.
+
+exercise 3-> simple api call. 
+
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
