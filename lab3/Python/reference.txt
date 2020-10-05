@@ -1,2 +1,0 @@
-To implement this calculator , i had to import Tkinter and 
-use many of its methods. 
