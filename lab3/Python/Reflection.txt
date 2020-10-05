@@ -1,0 +1,12 @@
+I decided to go with Python for this lab, due to having plenty of documentation and tutorials online. I consider myself a java guy
+so learning python had it's ups and downs. 
+
+logic is pretty similar between many different languages, the biggest difference is syntax in my opinion. For example , in java
+you have to use semicolons and brackets all throughout the file , but this is frown upon or even illegal in python. I do like how 
+easy it is to read Python , and how you can do the same amount of work in half of the code it would take you in Java. 
+
+For example , just creating the gui in java would have taken me double the code plus a lot of extra logic than it took me in python. There were 
+still a few things that i couldnt figure out in the amount of time i had to do this project. i was also thrown off by how python doesnt seem to have
+a main method? you can just write something simple as print(2+2) and it just gives you the result with that one line of code. 
+
+I see myself looking further into python since its a very popular language in fields such as data science and machine language. 
