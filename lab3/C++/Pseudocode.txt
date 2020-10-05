@@ -1,1 +1,7 @@
 
+Step 1: For i = 0 to N-1 repeat Step 2
+Step 2: For J = i + 1 to N – I repeat
+              Step 3: if numbers[J] > numbers[i]
+Swap numbers[J] and numbers[i]
+
+Step 3: Exit
