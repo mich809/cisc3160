@@ -1,1 +1,34 @@
+This program will allow the user to do 
+basic calculator functions. 
 
+function button_Click(one argument) 
+    
+    
+function button_Clear():
+     This clears the textfield from the calculator
+
+function button_Add():
+      This stores the number and operation that the user selects,
+      and also clears the textfield.
+ 
+ def button_Multiply():
+      This stores the number and operation that the user selects,
+      and also clears the textfield.
+ 
+ def button_divide():
+      This stores the number and operation that the user selects,
+      and also clears the textfield.
+      
+ def button_substract():
+      This stores the number and operation that the user selects,
+      and also clears the textfield.
+
+def button_Equal():
+      if operator is equal to +:
+           add the numbers and display result.
+      else if operator is equal to -:
+           substract the numbers and display result.
+      else if operator is equal to *:
+           multiply the numbers and display result.
+      else if operator is equal to /:
+           divide the numbers and display result.
