@@ -1,1 +1,7 @@
+I decided to go with C++ for the 2nd language because i heard it has some similarities with Java, which
+is partially true. I mostly read what i needed to learn to make this program work , but things such as 
+no garbage collector,  headers , and pointers could be a big cause for bugs if i had to develop a big application
+with C++. 
 
+The only thing i liked about C++ is that it also uses Semicolons and brackets like java but other than that ,
+im not a big fan of the language. The "using" keyword also threw me off. 
